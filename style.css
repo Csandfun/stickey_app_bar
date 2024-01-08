@@ -1,0 +1,58 @@
+.f{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(108, 9, 108, 0.704);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.t{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.i{
+    width: 300px;
+    height: 100px;
+    background-color:red;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.l{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(87, 87, 240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.g{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.y{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bx{
+    color: white;
+    font-size: 30px;
+}
+
+
+
+
+
+
